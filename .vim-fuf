@@ -1,0 +1,3 @@
+VERSION	300
+file	stats	{'word': 'app/controllers/dashboard_controller.rb', 'pattern': 'app/controllers/'}
+file	stats	{'word': 'app/controllers/', 'pattern': 'app/con'}
